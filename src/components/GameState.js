@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import GamePieces from "./GamePieces";
 import "../style/style.css"
-import RoteImage from "../RoteImage";
 
 const GameState = () => {
 

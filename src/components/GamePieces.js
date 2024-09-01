@@ -5,7 +5,7 @@ const GamePieces = ({ score, setScore, onGameOver }) => {
 
   const canvasRef = useRef();
 
-  let [snakeSpeed, setSnakeSpeed] = useState(10)
+  const snakeSpeed = 10
   // posicion de la manzana
   const [apple, setApple] = useState({ x: 100, y: 200 })
   //Posicion de inicio de la serpiente || Hacer pruebas luego con los corchetes
