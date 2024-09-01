@@ -1,0 +1,34 @@
+.gameSpace{
+    background-color: rgb(57, 99, 57);
+    border: 3px solid black;
+}
+
+.score{
+    color: #3498db;
+    font-size: 24px;
+}
+
+.highScore{
+    color: #e74c3c;
+    font-size: 18px;
+}
+
+.container{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gameOver{
+    color: cornflowerblue;
+    font-size: 20px;
+}
+
+.resetGame{
+    color: grey;
+    font-size: 25px;
+}
+
+.enterReset{
+    color: black;
+    font-size: 30px;
+}
